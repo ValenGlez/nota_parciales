@@ -1,16 +1,13 @@
-///El docente deber· ingresar la cantidad de alumnos que rindieron el examen.
-///Luego deber· ingresar el apellido del alumno
+///El docente deber√° ingresar la cantidad de alumnos que rindieron el examen.
+///Luego deber√° ingresar el apellido del alumno
 ///Luego las notas de cada uno de los 4 ejercicio.
 ///
-///El programa deber· Sumar las 4 notas de los ejercicios. y validar si el alumno aprobÛ o no.
+///El programa deber√° Sumar las 4 notas de los ejercicios. y validar si el alumno aprob√≥ o no.
 ///
-///El programa deber· mostrar una lista con los alumnos aprobados con su respectiva nota y una lista con todos los alumnos que rindieron con su respectiva†nota.
+///El programa deber√° mostrar una lista con los alumnos aprobados con su respectiva nota y una lista con todos los alumnos que rindieron con su respectiva¬†nota.
 
 #include <iostream>
-#include <stdio.h>
-#include <vector>
-#include <conio.h>
-#include <cstring>
+
 
 using namespace std;
 
